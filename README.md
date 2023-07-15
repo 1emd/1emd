@@ -4,7 +4,7 @@
 
 📍 Moscow, Russia 🇷🇺
 
-![Python](https://i.pinimg.com/originals/a9/ac/a2/a9aca2f4501163a0820d59e0236d2bc8.png) ![Django](django.png) ![HTML/CSS](html_css.png) ![SQL](sql.png) ![Linux](linux.png)
+![Python](python.png) ![Django](django.png) ![HTML/CSS](html_css.png) ![SQL](sql.png) ![Linux](linux.png)
 
 ---
 
@@ -20,12 +20,12 @@ I am a passionate beginner Python backend developer with a focus on Django. I am
 
 ## Achievements & Activities
 
-- 🏆 [Served as a team lead on a university project]
-- 🚀 [Significantly improved my skills over the past year]
+- 🏆 Served as a team lead on a university project
+- 🚀 Significantly improved my skills over the past year
 - 📊 [Infographic showcasing activity or project statistics]
 
 ---
 
-Feel free to reach out to me through [email](khoroshilovkirill@gmail.com) or [LinkedIn](https://www.linkedin.com/in/кирилл-хорошилов-7a3708268/) if you have any questions or would like to connect.
+Feel free to reach out to me through [telegram](https://t.me/krl_khr), [email](khoroshilovkirill@gmail.com) or [LinkedIn](https://www.linkedin.com/in/кирилл-хорошилов-7a3708268/) if you have any questions or would like to connect.
 
 Let's collaborate and create something amazing together! 🚀
