@@ -4,7 +4,7 @@
 
 📍 Moscow, Russia 🇷🇺
 
-![Python](python.png) ![Django](django.png) ![HTML/CSS](html_css.png) ![SQL](sql.png) ![Linux](linux.png)
+![Python](https://i.pinimg.com/originals/a9/ac/a2/a9aca2f4501163a0820d59e0236d2bc8.png) ![Django](django.png) ![HTML/CSS](html_css.png) ![SQL](sql.png) ![Linux](linux.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 I am a passionate beginner Python backend developer with a focus on Django. I am based in Moscow, Russia. Here are some key details about me:
 
-- 💼 Currently studying Computer Science at [(https://practicum.yandex.ru)]
+- 💼 Currently studying Computer Science at https://practicum.yandex.ru
 - 🎓 Additional education: [Certification/Degree]
 - 📚 Constantly learning and exploring new technologies in the development field
 - 💪 Seeking opportunities to contribute to exciting projects and gain valuable experience
