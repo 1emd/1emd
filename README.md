@@ -4,7 +4,7 @@
 
 📍 Moscow, Russia 🇷🇺
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=blue) ![HTML/CSS](html_css.png) ![SQL](sql.png) ![Linux](linux.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=blue) ![HTML/CSS](https://www.iconninja.com/files/81/850/327/files-html-icon.png) ![SQL](sql.png) ![Linux](linux.png)
 
 ---
 
