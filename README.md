@@ -8,8 +8,8 @@
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-464646?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS-464646?style=flat-square&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-![SQL](sql.png) 
-![Linux](https://img.shields.io/badge/-linux-464646?style=flat-square&logo=linux)(https://ru.wikipedia.org/wiki/Linux))
+[![SQL](https://img.shields.io/badge/-sql-464646?style=flat-square&logo=sql)(https://ru.wikipedia.org/wiki/SQL)] 
+[![Linux](https://img.shields.io/badge/-linux-464646?style=flat-square&logo=linux)(https://ru.wikipedia.org/wiki/Linux)]
 
 ---
 
