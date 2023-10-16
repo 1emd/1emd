@@ -17,8 +17,8 @@
 
 I am a passionate beginner Python backend developer with a focus on Django. I am based in Moscow, Russia. Here are some key details about me:
 
-- 💼 Currently studying Computer Science at https://practicum.yandex.ru
-- 🎓 Additional education: [Certification/Degree]
+- 💼 Completed Computer Science studies at https://practicum.yandex.ru
+- 🎓 Graduated from RUT(Russian University of Transport).
 - 📚 Constantly learning and exploring new technologies in the development field
 - 💪 Seeking opportunities to contribute to exciting projects and gain valuable experience
 - ⌛ Open to different employment formats and flexible work schedules
