@@ -27,7 +27,6 @@ I am a passionate beginner Python backend developer with a focus on Django. I am
 
 - 🏆 Served as a team lead on a university project
 - 🚀 Significantly improved my skills over the past year
-- 📊 [Infographic showcasing activity or project statistics]
 
 ---
 
