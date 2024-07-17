@@ -1,6 +1,6 @@
 # Kirill Khoroshilov
 
-👨‍💻 Beginning Python Backend Developer | Django | HTML/CSS | SQL | Linux 🐍
+👨‍💻 Python Backend Developer | Django | HTML/CSS | SQL | Linux 🐍
 
 📍 Moscow, Russia 🇷🇺
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a passionate beginner Python backend developer with a focus on Django. I am based in Moscow, Russia. Here are some key details about me:
+I am a Python backend developer with a focus on Django. I am based in Moscow, Russia. Here are some key details about me:
 
 - 💼 Completed Computer Science studies at https://practicum.yandex.ru
 - 🎓 Graduated from RUT(Russian University of Transport).
